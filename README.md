@@ -11,7 +11,7 @@ Hi, I'm [Richard Luo](https://skyline-9.github.io/), a freshman at Georgia Tech'
   <img align="right" alt="GIF" src="https://github.com/skyline-9/skyline-9/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💬 I love to meet new people, so feel free to reach out and connect with me
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/richardluorl);
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/richardluorl)
 - 📝 [Resume](https://skyline-9.github.io/resume.pdf)
 
 **Languages and Tools:**  
