@@ -6,7 +6,7 @@
 
 Hi, I'm [Richard Luo](https://skyline-9.github.io/), a freshman at Georgia Tech's College of Computing. I have threads in Artificial Intelligence and Information/Internetworks, but I'm also an undergraduate researcher working on remote privacy-preserving biometric authentication and recognition schemes. 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=skyline-9&show_icons=true&theme=gotham" alt="skyline-9" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=skyline-9&show_icons=true&theme=gotham&count_private=true&hide=issues" alt="skyline-9" />
 
   <img align="right" alt="GIF" src="https://github.com/skyline-9/skyline-9/blob/master/code.gif?raw=true" width="500" height="320" />
   
