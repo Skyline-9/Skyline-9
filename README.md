@@ -6,7 +6,7 @@ Hi, I'm [Richard Luo](https://skyline-9.github.io/), a student at Georgia Tech's
   
 - 💬 I love to meet new people, so feel free to reach out and connect with me
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/richardluorl)
-- 📝 [Resume](https://skyline-9.github.io/resume.pdf)
+- 📝 [Resume](https://skyline-9.github.io/static/media/resume.16d81a3c.pdf)
 
 <details>
 <summary><b>📈My GitHub Stats</b>: </summary>
