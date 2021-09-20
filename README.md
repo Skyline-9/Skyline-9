@@ -2,7 +2,7 @@
 
 ![](https://shields-io-visitor-counter.herokuapp.com/badge?page=skyline-9.skyline-9&style=for-the-badge&logo=Github)
 
-Hi, I'm [Richard Luo](https://skyline-9.github.io/), a student at Georgia Tech's College of Computing. I have threads in Artificial Intelligence and Information/Internetworks, and I'm also an undergraduate researcher working on remote privacy-preserving biometric authentication using deep learning recognition schemes. Currently, I'm working part time as a Cybersecurity Analyst, where I identify and mitigate security incidents with FireEye and Palo Alto Networks Cortex XSOAR.
+Hi, I'm [Richard Luo](https://skyline-9.github.io/), a student at Georgia Tech's College of Computing with threads in Artificial Intelligence and Information/Internetworks. Currently, I'm working as a Research Assistant in Georgia Tech's Robot Autonomy and Interactive Learning (RAIL) Lab under the supervision of Professor Sonia Chernova. In the past, I've worked as a Cybersecurity Analyst for Georgia Tech's Security Operations Center and as an undergraduate researcher in Professor Wenke Lee's lab working on remote privacy-preserving biometric authentication.
   
 - 💬 I love to meet new people, so feel free to reach out and connect with me
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/richardluorl)
