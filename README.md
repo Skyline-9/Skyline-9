@@ -12,7 +12,7 @@ Hi, I'm [Richard Luo](https://skyline-9.github.io/), a student at Georgia Tech's
 <summary><b>📈My GitHub Stats</b>: </summary>
 
   
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=skyline-9&show_icons=true&theme=gotham&count_private=true&hide=issues" alt="skyline-9" />
+<img src="https://github-readme-stats.vercel.app/api?username=skyline-9&show_icons=true&theme=radical&count_private=true&hide=issues" alt="skyline-9" />
 
 </details>
 
