@@ -39,15 +39,11 @@
     
 ## Join the Community Word Cloud :cloud: :pencil2:
 
-![](https://img.shields.io/badge/Words%20Added-25-brightgreen?labelColor=7D898B&style=for-the-badge)
-![](https://img.shields.io/badge/Word%20Clouds%20Created-6-48D6FF?labelColor=7D898B&style=for-the-badge)
-![](https://img.shields.io/badge/Total%20Participants-2-AC6EFF?labelColor=7D898B&style=for-the-badge)
-
-### :thought_balloon: [Click Here To Add A Word](https://github.com/Skyline-9/Skyline-9/issues/new?template=addword.md&title=wordcloud%7Cadd%7C%3CINSERT-WORD%3E) to see the word cloud update in real time :rocket:
+### :thought_balloon: [Click Here To Add A Word](https://github.com/Skyline-9/Skyline-9/issues/new?template=addword.md&title=wordcloud%7Cadd%7C%3CINSERT-WORD%3E) to see the word cloud update in real time
 
 A new word cloud will be automatically generated when you [add your own word](https://github.com/Skyline-9/Skyline-9/issues/new?template=addword.md&title=wordcloud%7Cadd%7C%3CINSERT-WORD%3E). The prompt will change frequently, so be sure to come back and check it out :relaxed:
 
-:star2: Don't like the arrangement of the current word cloud? [Regenerate it](https://github.com/Skyline-9/Skyline-9/issues/new?template=shufflecloud.md&title=wordcloud%7Cshuffle) :game_die:
+:game_die: Don't like the arrangement of the current word cloud? [Regenerate it](https://github.com/Skyline-9/Skyline-9/issues/new?template=shufflecloud.md&title=wordcloud%7Cshuffle)
 
 <div align="center">
 
@@ -58,6 +54,4 @@ A new word cloud will be automatically generated when you [add your own word](ht
 ![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20this%20Cloud-10-informational?labelColor=7D898B&style=for-the-badge)
 ![Word Cloud Contributors Badge](https://img.shields.io/badge/Contributors%20this%20Cloud-2-blueviolet?labelColor=7D898B&style=for-the-badge)
 
-[![Github Badge](https://img.shields.io/badge/-@Skyline--9-24292e?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/Skyline-9)](https://github.com/Skyline-9) [![Github Badge](https://img.shields.io/badge/-@rdeepak2002-24292e?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/rdeepak2002)](https://github.com/rdeepak2002) 
-
- Check out the [previous word cloud](https://github.com/Skyline-9/Skyline-9/blob/master/previous_clouds/previous_clouds.md#what-are-you-looking-forward-to-in-2021-tada-sunglasses-confetti_ball) to see our community's **What are you looking forward to in 2021? :tada: :sunglasses: :confetti_ball:**</div>
+[![Github Badge](https://img.shields.io/badge/-@Skyline--9-24292e?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/Skyline-9)](https://github.com/Skyline-9) [![Github Badge](https://img.shields.io/badge/-@rdeepak2002-24292e?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/rdeepak2002)](https://github.com/rdeepak2002) </div>
