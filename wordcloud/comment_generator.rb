@@ -26,8 +26,8 @@ class CommentGenerator
     ## :cloud: :pencil2: Thanks for participating in our latest community word cloud!
     **:star2: Enjoyed yourself? [Add a word](https://github.com/Skyline-9) to the NEW word cloud :fire:**
 
-    ![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20#{CloudTypes::CLOUDLABELS[-2]}%20cloud-#{current_words_added}-informational?labelColor=7D898B)
-    ![Word Cloud Contributors Badge](https://img.shields.io/badge/Contributors%20in%20#{CloudTypes::CLOUDLABELS[-2]}%20cloud-#{current_contributors.size}-blueviolet?labelColor=7D898B)
+    ![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20#{CloudTypes::CLOUDLABELS[-2]}%20cloud-#{current_words_added}-informational?labelColor=7D898B&style=for-the-badge)
+    ![Word Cloud Contributors Badge](https://img.shields.io/badge/Contributors%20in%20#{CloudTypes::CLOUDLABELS[-2]}%20cloud-#{current_contributors.size}-blueviolet?labelColor=7D898B&style=for-the-badge)
 
     :tada: Check out the final product :tada:
 
