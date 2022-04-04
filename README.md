@@ -2,7 +2,7 @@
 
 ![](https://shields-io-visitor-counter.herokuapp.com/badge?page=skyline-9.skyline-9&style=for-the-badge&logo=Github)<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
- Hi, I'm [Richard Luo](https://skyline-9.github.io/), a student at Georgia Tech's College of Computing with threads in Artificial Intelligence and Information/Internetworks. Currently, I'm working as a Research Assistant in Georgia Tech's Robot Autonomy and Interactive Learning (RAIL) Lab under the supervision of Professor Sonia Chernova. In the past, I've worked as a Cybersecurity Analyst for Georgia Tech's Security Operations Center and as an undergraduate researcher in Professor Wenke Lee's lab working on remote privacy-preserving biometric authentication.
+  Hi, I'm [Richard Luo](https://skyline-9.github.io/), a student at Georgia Tech's College of Computing with threads in Artificial Intelligence and Information/Internetworks. Currently, I'm working as a Research Assistant in Georgia Tech's Robot Autonomy and Interactive Learning (RAIL) Lab under the supervision of Professor Sonia Chernova. In the past, I've worked as a Cybersecurity Analyst for Georgia Tech's Security Operations Center and as an undergraduate researcher in Professor Wenke Lee's lab working on remote privacy-preserving biometric authentication.
   
 - 💬 I love to meet new people, so feel free to reach out and connect with me
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/richardluorl)
@@ -36,12 +36,12 @@
 
 
 ![](https://camo.githubusercontent.com/105b60ce28ec05ae23246c58638645c12cbdab6a1f5860309eb407e0aea90545/68747470733a2f2f696d6775722e636f6d2f72696c485678412e706e67)
-
+    
 ## Join the Community Word Cloud :cloud: :pencil2:
 
-![](https://img.shields.io/badge/Words%20Added-409-brightgreen?labelColor=7D898B)
+![](https://img.shields.io/badge/Words%20Added-18-brightgreen?labelColor=7D898B)
 ![](https://img.shields.io/badge/Word%20Clouds%20Created-6-48D6FF?labelColor=7D898B)
-![](https://img.shields.io/badge/Total%20Participants-309-AC6EFF?labelColor=7D898B)
+![](https://img.shields.io/badge/Total%20Participants-1-AC6EFF?labelColor=7D898B)
 
 ### :thought_balloon: [Add a word](https://github.com/Skyline-9/Skyline-9/issues/new?template=addword.md&title=wordcloud%7Cadd%7C%3CINSERT-WORD%3E) to see the word cloud update in real time :rocket:
 
@@ -55,5 +55,11 @@ A new word cloud will be automatically generated when you [add your own word](ht
 
 <img src="https://raw.githubusercontent.com/Skyline-9/Skyline-9/master/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
 
+![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20this%20Cloud-3-informational?labelColor=7D898B)
+![Word Cloud Contributors Badge](https://img.shields.io/badge/Contributors%20this%20Cloud-0-blueviolet?labelColor=7D898B)
+
+
 
  Check out the [previous word cloud](https://github.com/Skyline-9/Skyline-9/blob/master/previous_clouds/previous_clouds.md#what-are-you-looking-forward-to-in-2021-tada-sunglasses-confetti_ball) to see our community's **What are you looking forward to in 2021? :tada: :sunglasses: :confetti_ball:**</div>
+
+ ### Need inspiration for your own README? Check out [How to Stand out on GitHub using Profile READMEs](https://medium.com/better-programming/how-to-stand-out-on-github-with-profile-readmes-dfd2102a3490?source=friends_link&sk=61df9c4b63b329ad95528b8d7c00061f)
