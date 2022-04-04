@@ -39,7 +39,7 @@
     
 ## Join the Community Word Cloud :cloud: :pencil2:
 
-![](https://img.shields.io/badge/Words%20Added-18-brightgreen?labelColor=7D898B)
+![](https://img.shields.io/badge/Words%20Added-20-brightgreen?labelColor=7D898B)
 ![](https://img.shields.io/badge/Word%20Clouds%20Created-6-48D6FF?labelColor=7D898B)
 ![](https://img.shields.io/badge/Total%20Participants-1-AC6EFF?labelColor=7D898B)
 
@@ -55,11 +55,9 @@ A new word cloud will be automatically generated when you [add your own word](ht
 
 <img src="https://raw.githubusercontent.com/Skyline-9/Skyline-9/master/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
 
-![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20this%20Cloud-3-informational?labelColor=7D898B)
-![Word Cloud Contributors Badge](https://img.shields.io/badge/Contributors%20this%20Cloud-0-blueviolet?labelColor=7D898B)
+![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20this%20Cloud-5-informational?labelColor=7D898B)
+![Word Cloud Contributors Badge](https://img.shields.io/badge/Contributors%20this%20Cloud-1-blueviolet?labelColor=7D898B)
 
-
+[![Github Badge](https://img.shields.io/badge/-@Skyline--9-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/Skyline-9)](https://github.com/Skyline-9) 
 
  Check out the [previous word cloud](https://github.com/Skyline-9/Skyline-9/blob/master/previous_clouds/previous_clouds.md#what-are-you-looking-forward-to-in-2021-tada-sunglasses-confetti_ball) to see our community's **What are you looking forward to in 2021? :tada: :sunglasses: :confetti_ball:**</div>
-
- ### Need inspiration for your own README? Check out [How to Stand out on GitHub using Profile READMEs](https://medium.com/better-programming/how-to-stand-out-on-github-with-profile-readmes-dfd2102a3490?source=friends_link&sk=61df9c4b63b329ad95528b8d7c00061f)
