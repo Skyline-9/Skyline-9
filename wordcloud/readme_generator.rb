@@ -71,15 +71,11 @@ class ReadmeGenerator
     
 ## Join the Community Word Cloud :cloud: :pencil2:
 
-![](https://img.shields.io/badge/Words%20Added-#{total_words_added}-brightgreen?labelColor=7D898B&style=for-the-badge)
-![](https://img.shields.io/badge/Word%20Clouds%20Created-#{total_clouds}-48D6FF?labelColor=7D898B&style=for-the-badge)
-![](https://img.shields.io/badge/Total%20Participants-#{participants.size}-AC6EFF?labelColor=7D898B&style=for-the-badge)
-
-### :thought_balloon: [Click Here To Add A Word](https://github.com/Skyline-9/Skyline-9/issues/new?template=addword.md&title=wordcloud%7C#{ADDWORD}%7C%3CINSERT-WORD%3E) to see the word cloud update in real time :rocket:
+### :thought_balloon: [Click Here To Add A Word](https://github.com/Skyline-9/Skyline-9/issues/new?template=addword.md&title=wordcloud%7C#{ADDWORD}%7C%3CINSERT-WORD%3E) to see the word cloud update in real time
 
 A new word cloud will be automatically generated when you [add your own word](https://github.com/Skyline-9/Skyline-9/issues/new?template=addword.md&title=wordcloud%7C#{ADDWORD}%7C%3CINSERT-WORD%3E). The prompt will change frequently, so be sure to come back and check it out :relaxed:
 
-:star2: Don't like the arrangement of the current word cloud? [Regenerate it](https://github.com/Skyline-9/Skyline-9/issues/new?template=shufflecloud.md&title=wordcloud%7C#{SHUFFLECLOUD}) :game_die:
+:game_die: Don't like the arrangement of the current word cloud? [Regenerate it](https://github.com/Skyline-9/Skyline-9/issues/new?template=shufflecloud.md&title=wordcloud%7C#{SHUFFLECLOUD})
 
 <div align="center">
 
