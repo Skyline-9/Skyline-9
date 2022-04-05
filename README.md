@@ -51,7 +51,7 @@ A new word cloud will be automatically generated when you [add your own word](ht
 
 <img src="https://raw.githubusercontent.com/Skyline-9/Skyline-9/master/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
 
-![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20this%20Cloud-10-informational?labelColor=7D898B&style=for-the-badge)
-![Word Cloud Contributors Badge](https://img.shields.io/badge/Contributors%20this%20Cloud-2-blueviolet?labelColor=7D898B&style=for-the-badge)
+![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20this%20Cloud-11-informational?labelColor=7D898B&style=for-the-badge)
+![Word Cloud Contributors Badge](https://img.shields.io/badge/Contributors%20this%20Cloud-3-blueviolet?labelColor=7D898B&style=for-the-badge)
 
-[![Github Badge](https://img.shields.io/badge/-@Skyline--9-24292e?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/Skyline-9)](https://github.com/Skyline-9) [![Github Badge](https://img.shields.io/badge/-@rdeepak2002-24292e?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/rdeepak2002)](https://github.com/rdeepak2002) </div>
+[![Github Badge](https://img.shields.io/badge/-@adithya--gv-24292e?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/adithya-gv)](https://github.com/adithya-gv) [![Github Badge](https://img.shields.io/badge/-@Skyline--9-24292e?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/Skyline-9)](https://github.com/Skyline-9) [![Github Badge](https://img.shields.io/badge/-@rdeepak2002-24292e?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/rdeepak2002)](https://github.com/rdeepak2002) </div>
