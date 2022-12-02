@@ -2,7 +2,7 @@
 
 ![](https://shields-io-visitor-counter.herokuapp.com/badge?page=skyline-9.skyline-9&style=for-the-badge&logo=Github)<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-Hi, I'm [Richard Luo](https://skyline-9.github.io/), a student at Georgia Tech's College of Computing with threads in Artificial Intelligence and Information/Internetworks. For Summer 2023, I'm an incoming Software Engineer Intern at Amazon. In the past, I've worked as a Software Engineering Intern at UKG and conducted research both in Dr. Chernova's Robot Autonomy and Interactive Learning (RAIL) Lab and Dr. Wenke Lee's lab for remote privacy-preserving biometric authentication using deep learning schemes.
+Hi, I'm [Richard Luo](https://skyline-9.github.io/), a student at Georgia Tech's College of Computing with threads in Artificial Intelligence and Information/Internetworks. For Summer 2023, I'm an incoming Software Engineer Intern at Amazon. In the past, I've worked as a Software Engineering Intern at UKG and conducted research in both Dr. Chernova's Robot Autonomy and Interactive Learning (RAIL) Lab and Dr. Wenke Lee's lab for remote privacy-preserving biometric authentication using deep learning schemes.
   
 - 💬 I love to meet new people, so feel free to reach out and connect with me
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/richardluorl)
