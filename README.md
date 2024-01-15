@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Richard%20Luo&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AWS%20SDE%20Intern%20%7C%20MSCS%20%40%20GT&descAlignY=51&descAlign=62)
 
-<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hi, I'm [Richard Luo](https://skyline-9.github.io/), a Master's student at Georgia Tech's College of Computing with concentration in Machine Learning. This summer, I'm working as a Software Development Intern at AWS CloudFront. In the past, I've worked as a Software Engineering Intern at UKG and conducted research in both Dr. Chernova's Robot Autonomy and Interactive Learning (RAIL) Lab and Dr. Wenke Lee's lab for remote privacy-preserving biometric authentication using deep learning schemes.
+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hi, I'm [Richard Luo](https://skyline-9.github.io/), a Master's student at Georgia Tech's College of Computing with concentration in Machine Learning. In the past, I've worked with distributed systems as a Software Engineering Intern at AWS CloudFront and conducted research in both Dr. Chernova's Robot Autonomy and Interactive Learning (RAIL) Lab and Dr. Wenke Lee's lab for remote privacy-preserving biometric authentication using deep learning schemes.
   
 - 💬 I love to meet new people, so feel free to reach out and connect with me
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/richardluorl)
-- 📝 [Resume](https://skyline-9.github.io/static/media/resume.a70c8a38ff48c4180c73.pdf)
+- 📝 [Resume](https://skyline-9.github.io/assets/richard_luo_resume-O1OEBg_F.pdf)
 
 <details>
 <summary><b>📈My GitHub Stats</b>: </summary>
