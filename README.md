@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Richard%20Luo&fontSize=90&animation=fadeIn&fontAlignY=38&desc=TikTok%20SWE%20%20%7C%20MSCS%20%40%20GT&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Richard%20Luo&animation=fadeIn&desc=Machine%20Learning%20Engineer&descAlignY=60&descAlign=58&section=header&reversal=true)
 
-<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hi, I'm [Richard Luo](https://skyline-9.github.io/), a Software Engineer at TikTok, where I build large-scale machine learning systems to tackle content moderation. I graduated with a Master's in Computer Science concentrating on Machine Learning from Georgia Tech in 2024 🥳. Check out my research here: [Google Scholar](https://scholar.google.com/citations?user=Z-u5rZQAAAAJ&hl=en)!
+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hi, I'm [Richard Luo](https://skyline-9.github.io/), a Machine Learning Engineer at T-Mobile's Innovation Pod, where I work on turning cutting edge research into actionable business value. I graduated with a Master's in Computer Science concentrating on Machine Learning from Georgia Tech in 2024 🥳. Check out my research here: [Google Scholar](https://scholar.google.com/citations?user=Z-u5rZQAAAAJ&hl=en)!
   
 - 💬 I love to meet new people, so feel free to reach out and connect with me
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/richardluorl)
